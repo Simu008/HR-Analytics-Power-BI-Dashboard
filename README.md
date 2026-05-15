@@ -54,7 +54,7 @@ The dashboard helps identify:
 
 
 ## Project Files
-- Power BI Dashboard (.pbix)
+- PowerBI_File(.pbix)
 - Dataset (.csv)
-- Dashboard Screenshot
+- Dashboard_Screenshot
 
